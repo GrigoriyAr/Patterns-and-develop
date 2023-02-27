@@ -1,0 +1,7 @@
+man
+woman
+golang
+person
+golang
+cat
+goat
